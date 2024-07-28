@@ -77,3 +77,9 @@ form input.b {
         opacity: 1;
     }
 }
+
+
+form input.equal{
+    width:145px;
+    border-radius: 40px;
+}
